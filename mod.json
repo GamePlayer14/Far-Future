@@ -1,6 +1,6 @@
 {
-  "name": "Example Mod",
-  "author": "Anuke",
-  "description": "A simple mod. Demonstrates how to make[accent] new ores[] and[orange] machines.[]",
+  "name": "Far Future",
+  "author": "GamePlayer, ryanmetzger, tmetzger",
+  "description": "Adds items and machines to demonstrate what it would be like if it were many years in the future.",
   "version": 1.0
 }
