@@ -5,15 +5,15 @@
 	"liquidCapacity": 50,
 	"size": 2,
 	"hasPower": true,
-	"hasLiquids": false,
-	"craftTime": 10,
+	"hasLiquids": true,
+	"craftTime": 1,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
 		"power": 0.6,
 		"item": "iron"
 	},
-	"outputs": {
-		"item":"refined iron"
+	"outputItem": {
+		"item": "refined-iron"
 	},
 	"requirements": [
 		{ "item": "lead", "amount": 75 },
