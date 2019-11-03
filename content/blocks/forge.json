@@ -6,12 +6,13 @@
 	"size": 2,
 	"hasPower": true,
 	"hasLiquids": true,
-	"craftTime": 1,
+	"craftTime": 70,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 0.6,
+		"power": 0.5,
 		"item": "iron"
 	},
+	"produceTime": "25",
 	"outputItem": {
 		"item": "refined-iron"
 	},
