@@ -1,0 +1,25 @@
+{
+	"type": "GenericCrafter",
+	"name": "Forge",
+	"description": "Melts iron down and casts it into a more usable refined iron.",
+	"liquidCapacity": 50,
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": false,
+	"craftTime": 10,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 0.6,
+		"item": "iron"
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 75 },
+		{ "item": "copper", "amount": 100 },
+		{ "item": "silicon", "amount": 25 }
+		{ "item": "titanium", "amount": 10 }
+	],
+	"category": "crafting",
+	"research": "kiln",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}
