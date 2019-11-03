@@ -12,10 +12,13 @@
 		"power": 0.6,
 		"item": "iron"
 	},
+	"outputs": {
+		"item":"refined iron"
+	},
 	"requirements": [
 		{ "item": "lead", "amount": 75 },
 		{ "item": "copper", "amount": 100 },
-		{ "item": "silicon", "amount": 25 }
+		{ "item": "silicon", "amount": 25 },
 		{ "item": "titanium", "amount": 10 }
 	],
 	"category": "crafting",
