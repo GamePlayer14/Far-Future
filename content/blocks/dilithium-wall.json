@@ -2,11 +2,11 @@
 	"name": "Silver Wall",
 	"description": "A wall made of silver. Not particularly useful or interesting.",
 	"type": "Wall",
-	"health": 600,
+	"health": 4000,
 	"size": 2,
 	"requirements": [
-		{ "item": "silver", "amount": 40 }
+		{ "item": "dilithium", "amount": 26  }
 	],
 	"category": "defense",
-	"research": "copper-wall"
+	"research": "plastanium-wall"
 }
