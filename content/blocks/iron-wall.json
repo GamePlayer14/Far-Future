@@ -1,0 +1,12 @@
+{
+	"name": "Lead Wall",
+	"description": "A wall made of iron. Nothing really special.",
+	"type": "Wall",
+	"health": 600,
+	"size": 1,
+	"requirements": [
+		{ "item": "refined-iron", "amount": 6 }
+	],
+	"category": "defense",
+	"research": "lead-wall"
+}

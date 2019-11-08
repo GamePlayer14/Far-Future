@@ -1,0 +1,12 @@
+{
+	"name": "large dilithium Wall",
+	"description": "A very strong and expensive wall.",
+	"type": "Wall",
+	"health": 4000,
+	"size": 2,
+	"requirements": [
+		{ "item": "dilithium", "amount": 26  }
+	],
+	"category": "defense",
+	"research": "dilithium-wall"
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Lead Wall",
+	"description": "A long deserved wall made of Lead.",
+	"type": "Wall",
+	"health": 400,
+	"size": 1,
+	"requirements": [
+		{ "item": "lead", "amount": 6 }
+	],
+	"category": "defense",
+	"research": "copper-wall"
+}

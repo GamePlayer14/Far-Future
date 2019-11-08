@@ -1,11 +1,11 @@
 {
-	"name": "Silver Wall",
-	"description": "A wall made of silver. Not particularly useful or interesting.",
+	"name": "Dilithium wall",
+	"description": "A small wall made of dilithium.",
 	"type": "Wall",
-	"health": 4000,
-	"size": 2,
+	"health": 1100,
+	"size": 1,
 	"requirements": [
-		{ "item": "dilithium", "amount": 26  }
+		{ "item": "dilithium", "amount": 6 }
 	],
 	"category": "defense",
 	"research": "plastanium-wall"
