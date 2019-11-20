@@ -1,0 +1,36 @@
+{
+	"type": "GenericCrafter",
+	"name": "Ammo Factory",
+	"description": "Creates the only ammo for the grenade launcher.",
+	"outputItem": {"item": "dilithium-bomb", "amount": 1},
+	"size": 5,
+	"hasPower": true,
+	"hasLiquids": false,
+	"hasItems": true,
+	"craftTime": 10,
+	"updateEffect": "smeltsmoke",
+	"itemCapacity": 10,
+	"consumes": {
+		"power": 10.0,
+		"items": {
+			"items":[
+				{"item": "thorium", "amount": 50}
+			]
+		},
+		"liquid": {
+			"liquid": "water", 
+			"amount": 10,
+			"booster": false
+		}
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 25 },
+		{ "item": "copper", "amount": 30},
+		{ "item": "silicon", "amount": 30 },
+		{ "item": "titanium", "amount": 30}
+	],
+	"category": "crafting",
+	"research": "forge",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}
