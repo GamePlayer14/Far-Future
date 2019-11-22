@@ -1,8 +1,8 @@
 {
 	"type": "resource",
 	"name": "Iron",
-	"description": "An important resource for building and ammo forthis mod.",
+	"description": "An important resource for building and ammo for this mod.",
 	"hardness": 3,
 	"cost": 2.0,
-	"color": "ffffff"
+	"color": "ff0000"
 }

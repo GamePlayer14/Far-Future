@@ -15,7 +15,7 @@
 		"power": 10.0,
 		"items": {
 			"items":[
-				{"item": "thorium", "amount": 50}
+				{"item": "thorium", "amount": 5}
 			]
 		}
 	},

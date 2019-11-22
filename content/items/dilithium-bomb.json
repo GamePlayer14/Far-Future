@@ -1,6 +1,6 @@
 {
-	"type": "material",
+	"type": "resource",
 	"name": "Dilithium bomb",
 	"description": "Ammo for the grenade launcher.",
-	"color": "ffffff"
+	"color": "40E0D0"
 }

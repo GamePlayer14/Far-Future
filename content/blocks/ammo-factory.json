@@ -3,7 +3,7 @@
 	"name": "Ammo Factory",
 	"description": "Creates the only ammo for the grenade launcher.",
 	"outputItem": {"item": "dilithium-bomb", "amount": 1},
-	"size": 5,
+	"size": 2,
 	"hasPower": true,
 	"hasLiquids": false,
 	"hasItems": true,
@@ -14,12 +14,12 @@
 		"power": 10.0,
 		"items": {
 			"items":[
-				{"item": "thorium", "amount": 50}
+				{"item": "dilithium", "amount": 1}
 			]
 		},
 		"liquid": {
 			"liquid": "water", 
-			"amount": 10,
+			"amount": 0.5,
 			"booster": false
 		}
 	},
