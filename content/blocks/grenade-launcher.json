@@ -1,0 +1,54 @@
+{
+	"type": "artilleryTurret",
+	"name": "Grenade Launcher",
+	"description": "Shoots highly explosive bombs that explode on impact.",
+	"health": 2000,
+	"size": 3,
+	"reload": 80,
+	"range": 500,
+	"ammoUseEffect": "shellEjectBig",
+	"inaccuracy": 0,
+	"rotatespeed": 12,
+	"ammo": {
+		"dilithium-bomb": {
+			"speed": 5.0,
+			"damage": 150,
+			"bulletWidth": 20,
+			"bulletHeight": 20,
+			"shootEffect": "shootBig",
+			"smokeEffect": "shootBigSmoke",
+			"ammoMultiplier": 1,
+			"bulletType": "frag",
+			"areaDamage": "true",
+			"areaDamageRadius": "500"
+		}
+	},
+	"requirements": [
+		{
+			"item": "refined-iron",
+			"amount": 100
+		},
+		{
+			"item": "copper",
+			"amount": 175
+		},
+		{
+			"item": "thorium",
+			"amount": 100
+		},
+		{
+			"item": "titanium",
+			"amount": 150
+		},
+		{
+			"item": "dilithium",
+			"amount": 75
+		},
+		{
+			"item": "lead",
+			"amount": 175
+		}	
+	],
+	"category": "turret",
+	"research": "ripple"
+}
